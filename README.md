@@ -1,6 +1,6 @@
 # Project 1 - *SimpleTodoList*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**SimpleTodoList** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Riley Champion**
 
@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+ * Created my first Andriod App.
+ * Learned a lot about Java - which I have never used before!
 
 ## License
 
